@@ -1,2 +1,0 @@
-# SimGitBranch
-Duncan's example
